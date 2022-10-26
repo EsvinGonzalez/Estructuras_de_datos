@@ -1,0 +1,16 @@
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\bin\Debug\net5.0\ejercicio6.exe
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\bin\Debug\net5.0\ejercicio6.deps.json
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\bin\Debug\net5.0\ejercicio6.runtimeconfig.json
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\bin\Debug\net5.0\ejercicio6.runtimeconfig.dev.json
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\bin\Debug\net5.0\ejercicio6.dll
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\bin\Debug\net5.0\ref\ejercicio6.dll
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\bin\Debug\net5.0\ejercicio6.pdb
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\obj\Debug\net5.0\ejercicio6.csproj.AssemblyReference.cache
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\obj\Debug\net5.0\ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\obj\Debug\net5.0\ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\obj\Debug\net5.0\ejercicio6.AssemblyInfo.cs
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\obj\Debug\net5.0\ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\obj\Debug\net5.0\ejercicio6.dll
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\obj\Debug\net5.0\ref\ejercicio6.dll
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\obj\Debug\net5.0\ejercicio6.pdb
+C:\Users\Gyovanny\Desktop\Laboratorio\ejercicio6\obj\Debug\net5.0\ejercicio6.genruntimeconfig.cache
